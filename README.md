@@ -1,4 +1,4 @@
-# Minorities-engagement-on-digital-learning
+# Student-engagements-on-digital-learning
 ### INTRODUCTION
 
 Nelson Mandela believed education was the most powerful weapon to change the world. But not every student has equal opportunities to learn. Effective policies and plans need to be enacted in order to make education more equitable—and perhaps exploratory data analysis carried out will give an insight as to possible solutions that could be implemented.
